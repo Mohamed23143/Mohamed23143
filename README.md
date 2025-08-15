@@ -1,50 +1,70 @@
-Hey, I'm Mohamed Salem
-<a href="https://www.linkedin.com/in/mohamed-salem-ai" target="blank"><img align="left" alt="LinkedIn" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height="18px"/></a>
-<a href="https://www.kaggle.com/YOUR_USERNAME" target="_blank"><img alt="Kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height="18px"/></a>
 
-I'm a Machine Learning Engineer with a strong foundation in Computer Science and a passion for building real-world, impactful ML applications. Currently, I'm fully focused on a 4-month intensive learning journey to master:
+<h1 align="left" id="mohamed-title">👋 Hello there! I'm Mohamed Salem</h1>
+<h3 align="left">Computer Science Graduate | Machine Learning & Deep Learning Enthusiast | NLP Specialist</h3>
 
-🤖 Machine Learning (From Fundamentals to Deployment)
+<p align="left">
+  <a href="https://github.com/YourGitHubUsername">
+    <img src="https://komarev.com/ghpvc/?username=YourGitHubUsername" alt="page views" />
+  </a>
+  <a href="https://your-portfolio-link.com">
+    <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fyour-portfolio-link.com">
+  </a>
+  <a href="https://www.linkedin.com/in/mohamed-salem-7780b8353">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin">
+  </a>
+  <a href="https://github.com/YourGitHubUsername?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/YourGitHubUsername?style=flat&logo=github">
+  </a>
+</p>
 
-🧠 NLP, Computer Vision (as electives)
+<a href="#mohamed-title">
+  <img src="https://raw.githubusercontent.com/YourGitHubUsername/github-stats-transparent/output/generated/overview.svg" alt="mohamed" align="right" />
+</a>
 
-🛠️ MLOps, Docker, Cloud Basics, and SQL
+- 🎓 &nbsp;CS Graduate specialized in **NLP**
+- 🤖 &nbsp;Passionate about **Machine Learning** & **Deep Learning**
+- 📚 &nbsp;Currently working on AI projects and real-world ML applications
+- ✍️ &nbsp;Sharing knowledge about **NLP** and **AI development**
+- 💬 &nbsp;Open to collaboration on AI-based projects
+- 🌐 &nbsp;Connect with me on **[LinkedIn]**
 
-💼 AI project development + career readiness
+<br>
 
-<br/> <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
-🚀 What I'm Working On
-🧠 AI Hiring Assistant — A smart system to evaluate CVs & match candidates to job descriptions
+<h2 align="left" id="mohamed-tech">Favorite Tech</h2>
 
-🧑‍💻 Self-Coaching AI Bot — Personal AI assistant that learns from daily conversations
+> Tools, languages, and frameworks I love working with.
 
-📚 Reading: "تعلم الآلة وعلم البيانات" by ميلاد وزّان to deepen theoretical understanding
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="./img/tensorflow-original.svg" width="48" height="48" alt="TensorFlow" />
+      <br>TensorFlow
+    </td>
+    <td align="center" width="96">
+      <img src="./img/pytorch-original.svg" width="48" height="48" alt="PyTorch" />
+      <br>PyTorch
+    </td>
+    <td align="center" width="96">
+      <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="./img/kubernetes-icon.svg" width="48" height="48" alt="Kubernetes" />
+      <br>Kubernetes
+    </td>
+    <td align="center" width="96">
+      <img src="./img/sql-database-generic.svg" width="48" height="48" alt="SQL" />
+      <br>SQL
+    </td>
+  </tr>
+</table>
 
-🔍 More About Me
-🔭 Currently building practical ML projects with Streamlit, scikit-learn, spaCy & friends
+<h2 align="left">Coding Activity</h2>
 
-🌱 Actively learning: Explainable AI, ML pipelines, and model deployment
+> Tracking my open-source contributions and coding time.
 
-💡 Passionate about AI for education & career guidance
-
-🎯 Mission: Become job-ready ML Engineer by end of the 4-month plan
-
-🧰 Tools: Python, Pandas, NumPy, Scikit-learn, Streamlit, spaCy, HuggingFace, Git, Docker
-
-📫 Let's connect on LinkedIn
-
-📌 Goals for 2025
-✅ Build 2 strong ML projects ready for portfolio
-
-🔁 Learn by doing: weekly ML challenges + daily implementation
-
-📢 Share knowledge through LinkedIn posts and GitHub repos
-
-🎓 Graduate with a powerful AI portfolio and industry-ready skills
-
-💬 Feel free to ask me about
-Getting started in ML from scratch
-
-Building real projects without fancy tools
-
-How to learn ML even if you’re using a phone only 😎
+<!-- START_SECTION:ascii_graph -->
